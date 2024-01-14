@@ -45,5 +45,6 @@ namespace ejemplo1
         //    get { return Capacidad; }
         //    set { Capacidad = value; }
         //}
+        // Agrego un comentario para hacer una prueba
     }
 }
